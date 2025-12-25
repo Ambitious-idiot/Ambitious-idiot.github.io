@@ -23,7 +23,7 @@ I have published several papers with total <a href='https://scholar.google.com/c
 <!-- 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 
-<!-- 
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
