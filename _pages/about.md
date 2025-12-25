@@ -27,6 +27,44 @@ I have published several papers with total <a href='https://scholar.google.com/c
 
 # 📝 Publications 
 
+## ✨ Highlights
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Intelligence</div><img src='images/vitgaze.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Vitgaze: gaze following with interaction features in vision transformers](https://link.springer.com/article/10.1007/s44267-024-00064-9)
+
+**Yuehao Song**, Xinggang Wang, Jingfeng Yao, Wenyu Liu, Jinglin Zhang, Xiangmin Xu
+
+[**PDF**](https://link.springer.com/content/pdf/10.1007/s44267-024-00064-9.pdf) \| [**Project**](https://github.com/hustvl/ViTGaze) \| [![](https://img.shields.io/github/stars/hustvl/ViTGaze
+?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze)
+</div>
+</div>
+
+## 📄 All Publications
+
+<div class='paper-box-light'>
+<div class='paper-box-text' markdown="1">
+[DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving](https://arxiv.org/abs/2512.07745)
+
+Jialv Zou, Shaoyu Chen, Bencheng Liao, Zhiyu Zheng, **Yuehao Song**, Lefei Zhang, Qian Zhang, Wenyu Liu, Xinggang Wang
+
+[**PDF**](https://arxiv.org/pdf/2512.07745) \| [**Project**](https://github.com/hustvl/DiffusionDriveV2) \| [![](https://img.shields.io/github/stars/hustvl/DiffusionDriveV2
+?style=social&label=Code Stars)](https://github.com/hustvl/DiffusionDriveV2)
+</div>
+</div>
+
+<div class='paper-box-light'>
+<div class='paper-box-text' markdown="1">
+
+[Dream4D: Lifting Camera-Controlled I2V towards Spatiotemporally Consistent 4D Generation](https://arxiv.org/abs/2508.07769)
+
+Xiaoyan Liu, Kangrui Li, **Yuehao Song**, Jiaxin Liu
+
+[**PDF**](https://arxiv.org/pdf/2508.07769) \| [**Project**](https://wanderer7-sk.github.io/Dream4D.github.io) \| [![](https://img.shields.io/github/stars/Wanderer7-sk/Dream4D
+?style=social&label=Code Stars)](https://github.com/Wanderer7-sk/Dream4D)
+</div>
+</div>
+
 <div class='paper-box-light'>
 <div class='paper-box-text' markdown="1">
   
@@ -39,14 +77,14 @@ Jingfeng Yao, Xinggang Wang, **Yuehao Song**, Huangxuan Zhao, Jun Ma, Yajie Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Intelligence</div><img src='images/vitgaze.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-light'>
 <div class='paper-box-text' markdown="1">
 
 [Vitgaze: gaze following with interaction features in vision transformers](https://link.springer.com/article/10.1007/s44267-024-00064-9)
 
 **Yuehao Song**, Xinggang Wang, Jingfeng Yao, Wenyu Liu, Jinglin Zhang, Xiangmin Xu
 
-[**PDF**](https://link.springer.com/content/pdf/10.1007/s44267-024-00064-9.pdf) \| [**Project**](https://github.com/hustvl/ViTGaze) \| [![](https://img.shields.io/github/stars/hustvl/ViTGaze
+**Visual Intelligence** \| [**PDF**](https://link.springer.com/content/pdf/10.1007/s44267-024-00064-9.pdf) \| [**Project**](https://github.com/hustvl/ViTGaze) \| [![](https://img.shields.io/github/stars/hustvl/ViTGaze
 ?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze)
 </div>
 </div>
