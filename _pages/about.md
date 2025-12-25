@@ -27,7 +27,7 @@ I have published several papers with total <a href='https://scholar.google.com/c
 
 # 📝 Publications 
 
-<div class='paper-box-light''
+<div class='paper-box-light'>
 <div class='paper-box-text' markdown="1">
   
 [Eva-x: A foundation model for general chest x-ray analysis with self-supervised learning](https://www.nature.com/articles/s41746-025-02032-z)
