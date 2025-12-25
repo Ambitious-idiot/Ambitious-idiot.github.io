@@ -20,10 +20,11 @@ redirect_from:
 I'm a master student at Huazhong University of Science and Technology, where I am a member of the <a href="https://hustvl.github.io/">HUST Vision Lab</a> under the supervision of <a href="https://xwcv.github.io/">Prof. Xinggang Wang</a>.
 My research interests include autonomous driving, MLLMs, and generative models.
 
-Currently, I am a research intern at Horizon Robotics, working in the team led by [Shaoyu Chen](https://scholar.google.com/citations?user=PIeNN2gAAAAJ) and [Qian Zhang](https://scholar.google.com/citations?user=pCY-bikAAAAJ). My current research focuses on Vision-Language-Action models (VLA) for autonomous driving.
+Currently, I am a research intern at Horizon Robotics, working in the team led by [Shaoyu Chen](https://scholar.google.com/citations?user=PIeNN2gAAAAJ) and [Qian Zhang](https://scholar.google.com/citations?user=pCY-bikAAAAJ).
+My current research focuses on Vision-Language-Action models (VLA) for autonomous driving.
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 
+- *2025.12*: &nbsp;🎉🎉 Release Senna-2 project, a dual-system driving VLA that explicitly aligns the VLM and the E2E model for consistent decision-making and planning.
 
 # 📝 Publications 
 
@@ -36,7 +37,7 @@ Currently, I am a research intern at Horizon Robotics, working in the team led b
 **Yuehao Song**, Xinggang Wang, Jingfeng Yao, Wenyu Liu, Jinglin Zhang, Xiangmin Xu
 
 [**PDF**](https://link.springer.com/content/pdf/10.1007/s44267-024-00064-9.pdf) \| [**Project**](https://github.com/hustvl/ViTGaze) \| [![](https://img.shields.io/github/stars/hustvl/ViTGaze
-?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze) <strong><span class='show_paper_citations' data='7sqkA-MAAAAJ:d1gkVwhDpl0C'></span></strong>
+?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze) <span class='show_paper_citations' data='7sqkA-MAAAAJ:d1gkVwhDpl0C'></span>
 </div>
 </div>
 
