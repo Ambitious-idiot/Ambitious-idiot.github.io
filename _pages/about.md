@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master student at <a href="https://hustvl.github.io/">HUST Vision Lab</a> supervised by <a href="https://xwcv.github.io/">Prof. Xinggang Wang</a>.
-
+I'm a master student at Huazhong University of Science and Technology, where I am a member of the <a href="https://hustvl.github.io/">HUST Vision Lab</a> under the supervision of <a href="https://xwcv.github.io/">Prof. Xinggang Wang</a>.
+My research interests include autonomous driving, MLLMs, and generative models.
+I have published several papers with total <a href='https://scholar.google.com/citations?user=7sqkA-MAAAAJ'>google scholar citations <strong><span id='total_cit'>30+</span></strong></a>.
 <!-- 
-My research interest includes autonomous driving and multimodal large language models (MLLMs). I have published several papers with total <a href='https://scholar.google.com/citations?user=7sqkA-MAAAAJ'>google scholar citations <strong><span id='total_cit'>30+</span></strong></a>.
-
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 
-
+<!-- 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
