@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuehao Song's Personal Page"
-description              : "Yuehao Song's Personal Academic Page."
+description              : "Master student in Huazhong University of Science and Technology"
 repository               : "Ambitious-idiot/Ambitious-idiot.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuehao Song"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Huazhong University of Science and Technology"
+  bio              : ""
   location         : "Beijing, China"
   employer         :
   pubmed           : 
