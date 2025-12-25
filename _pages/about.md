@@ -45,4 +45,4 @@ I have published several papers with total <a href='https://scholar.google.com/c
 - *2020.09 - 2024.06*, Bachelor, School of EIC, Huazhong University of Science and Technology, Wuhan, China.
 
 # 💻 Internships
-- *2025.01 - Now*, [Horizon Robotics](https://cn.horizon.ai/), Beijing, China.-->
+- *2025.01 - Now*, [Horizon Robotics](https://cn.horizon.ai/), Beijing, China.
