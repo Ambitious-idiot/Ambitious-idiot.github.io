@@ -27,7 +27,7 @@ I have published several papers with total <a href='https://scholar.google.com/c
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Intelligence</div><img src='images/vitgaze.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Intelligence</div><img src='images/vitgaze.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Vitgaze: gaze following with interaction features in vision transformers](https://link.springer.com/article/10.1007/s44267-024-00064-9)
