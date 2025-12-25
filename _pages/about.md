@@ -20,37 +20,29 @@ redirect_from:
 I'm a master student at Huazhong University of Science and Technology, where I am a member of the <a href="https://hustvl.github.io/">HUST Vision Lab</a> under the supervision of <a href="https://xwcv.github.io/">Prof. Xinggang Wang</a>.
 My research interests include autonomous driving, MLLMs, and generative models.
 I have published several papers with total <a href='https://scholar.google.com/citations?user=7sqkA-MAAAAJ'>google scholar citations <strong><span id='total_cit'>30+</span></strong></a>.
-<!-- 
+
+
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Intelligence</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Vitgaze: gaze following with interaction features in vision transformers](https://link.springer.com/article/10.1007/s44267-024-00064-9)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yuehao Song**, Xinggang Wang, Jingfeng Yao, Wenyu Liu, Jinglin Zhang, Xiangmin Xu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**PDF**](https://link.springer.com/content/pdf/10.1007/s44267-024-00064-9.pdf) \| [**Project**](https://github.com/hustvl/ViTGaze) \| [![](https://img.shields.io/github/stars/hustvl/ViTGaze
+?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze)
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.09 - Now*, Master, School of EIC, Huazhong University of Science and Technology, Wuhan, China, supervised by [Prof. Xinggang Wang](https://xwcv.github.io/).
+- *2020.09 - 2024.06*, Bachelor, School of EIC, Huazhong University of Science and Technology, Wuhan, China.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
+- *2025.01 - Now*, [Horizon Robotics](https://cn.horizon.ai/), Beijing, China.-->
