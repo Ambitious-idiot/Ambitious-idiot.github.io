@@ -106,4 +106,4 @@ Jingfeng Yao, Xinggang Wang, **Yuehao Song**, Huangxuan Zhao, Jun Ma, Yajie Chen
 - *2020.09 - 2024.06*, Bachelor, School of EIC, Huazhong University of Science and Technology, Wuhan, China.
 
 # 💻 Internships
-- *2025.01 - Now*, [Horizon Robotics](https://cn.horizon.ai/), Beijing, China.
+- *2025.01 - Now*, [Horizon Robotics](https://www.horizon.auto), Beijing, China.
