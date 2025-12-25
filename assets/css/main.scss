@@ -84,12 +84,11 @@
 }
 
 .paper-box-light {
-    border-bottom: 1px #efefef solid; 
-    padding: 2em 0; 
-    
-    .paper-box-text{ 
-        max-width: 100%; 
-    } 
+    border-bottom: 1px #efefef solid;
+
+    .paper-box-text{
+        max-width: 100%;
+    }
 }
 
 $scroll_offset : 2em;
