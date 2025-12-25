@@ -27,12 +27,17 @@ I have published several papers with total <a href='https://scholar.google.com/c
 
 # 📝 Publications 
 
+<div class='paper-box-light''
+<div class='paper-box-text' markdown="1">
+  
 [Eva-x: A foundation model for general chest x-ray analysis with self-supervised learning](https://www.nature.com/articles/s41746-025-02032-z)
 
 Jingfeng Yao, Xinggang Wang, **Yuehao Song**, Huangxuan Zhao, Jun Ma, Yajie Chen, Wenyu Liu, Bo Wang
 
 **npj Digital Medicine** \| [**PDF**](https://www.nature.com/articles/s41746-025-02032-z.pdf) \| [**Project**](https://github.com/hustvl/EVA-X) \| [![](https://img.shields.io/github/stars/hustvl/EVA-X
 ?style=social&label=Code Stars)](https://github.com/hustvl/EVA-X)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Intelligence</div><img src='images/vitgaze.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,6 +48,7 @@ Jingfeng Yao, Xinggang Wang, **Yuehao Song**, Huangxuan Zhao, Jun Ma, Yajie Chen
 
 [**PDF**](https://link.springer.com/content/pdf/10.1007/s44267-024-00064-9.pdf) \| [**Project**](https://github.com/hustvl/ViTGaze) \| [![](https://img.shields.io/github/stars/hustvl/ViTGaze
 ?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze)
+</div>
 </div>
 
 # 📖 Educations
