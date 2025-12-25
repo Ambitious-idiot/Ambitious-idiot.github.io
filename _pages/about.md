@@ -19,9 +19,9 @@ redirect_from:
 
 I am a master student at <a href="https://hustvl.github.io/">HUST Vision Lab</a> supervised by <a href="https://xwcv.github.io/">Prof. Xinggang Wang</a>.
 
+<!-- 
 My research interest includes autonomous driving and multimodal large language models (MLLMs). I have published several papers with total <a href='https://scholar.google.com/citations?user=7sqkA-MAAAAJ'>google scholar citations <strong><span id='total_cit'>30+</span></strong></a>.
 
-<!-- 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 
 
