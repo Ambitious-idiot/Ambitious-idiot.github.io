@@ -36,8 +36,8 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
 
 **Yuehao Song**, Xinggang Wang, Jingfeng Yao, Wenyu Liu, Jinglin Zhang, Xiangmin Xu
 
-[**PDF**](https://link.springer.com/content/pdf/10.1007/s44267-024-00064-9.pdf) \| [**Project**](https://github.com/hustvl/ViTGaze) \| [![](https://img.shields.io/github/stars/hustvl/ViTGaze
-?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze) <span class='show_paper_citations' data='7sqkA-MAAAAJ:d1gkVwhDpl0C'></span>
+[**PDF**](https://link.springer.com/content/pdf/10.1007/s44267-024-00064-9.pdf) \| [**Project**](https://github.com/hustvl/ViTGaze) <span class='show_paper_citations' data='7sqkA-MAAAAJ:d1gkVwhDpl0C'></span> \| [![](https://img.shields.io/github/stars/hustvl/ViTGaze
+?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze)
 </div>
 </div>
 
