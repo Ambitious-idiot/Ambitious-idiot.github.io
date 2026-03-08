@@ -29,7 +29,7 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
 # 📝 Publications 
 
 <details open>
-  <summary style="cursor: pointer; display: list-item; font-size: 1.55em; font-weight: 700; margin: 0.8em 0; color: #333;">
+  <summary style="cursor: pointer; display: list-item; font-size: 1.25em; font-weight: bold; margin: 0.6em 0; color: #333;">
     ✨ Highlights
   </summary>
 
@@ -47,7 +47,7 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
 </details>
 
 <details open>
-  <summary style="cursor: pointer; display: list-item; font-size: 1.55em; font-weight: 700; margin: 0.8em 0; color: #333;">
+  <summary style="cursor: pointer; display: list-item; font-size: 1.25em; font-weight: bold; margin: 0.6em 0; color: #333;">
     📄 All Publications
   </summary>
 
