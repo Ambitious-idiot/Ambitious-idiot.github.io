@@ -28,7 +28,13 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
 
 # 📝 Publications 
 
-## ✨ Highlights
+<details open>
+  <summary style="cursor: pointer; margin: 1em 0; list-style: auto;">
+    <span style="font-size: 5em; font-weight: bold; display: inline-block; vertical-align: middle;">
+      ✨ Highlights
+    </span>
+  </summary>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Intelligence</div><img src='images/vitgaze.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,8 +46,14 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
 ?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze)
 </div>
 </div>
+</details>
 
-## <details open><summary style="cursor: pointer; font-size: 1.6em; font-weight: bold; margin: 1em 0; list-style: auto;">📄 All Publications</summary>
+<details open>
+  <summary style="cursor: pointer; margin: 1em 0; list-style: auto;">
+    <span style="font-size: 5em; font-weight: bold; display: inline-block; vertical-align: middle;">
+      📄 All Publications
+    </span>
+  </summary>
 
 <div class='paper-box-light'>
 <div class='paper-box-text' markdown="1">
