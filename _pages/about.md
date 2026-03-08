@@ -41,7 +41,7 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
 </div>
 </div>
 
-## 📄 All Publications
+## <details open><summary style="cursor: pointer; font-size: 1.6em; font-weight: bold; margin: 1em 0; list-style: auto;">📄 All Publications</summary>
 
 <div class='paper-box-light'>
 <div class='paper-box-text' markdown="1">
@@ -99,6 +99,7 @@ Jingfeng Yao, Xinggang Wang, **Yuehao Song**, Huangxuan Zhao, Jun Ma, Yajie Chen
 ?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze)
 </div>
 </div>
+</details>
 
 # 📖 Educations
 
