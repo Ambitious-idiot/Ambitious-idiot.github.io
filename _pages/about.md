@@ -24,6 +24,8 @@ Currently, I am a research intern at Horizon Robotics, working in the team led b
 My current research focuses on Vision-Language-Action models (VLA) for autonomous driving.
 
 # 🔥 News
+- *2026.3*:  &nbsp;🎉🎉 Release [Senna-2 paper](https://arxiv.org/abs/2603.11219) on arXiv.
+
 - *2025.12*: &nbsp;🎉🎉 Release [Senna-2 project](https://ambitious-idiot.github.io/senna2-project), a dual-system driving VLA that explicitly aligns the VLM and the E2E model for consistent decision-making and planning.
 
 # 📝 Publications 
@@ -33,17 +35,23 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
     ✨ Highlights
   </summary>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Intelligence</div><img src='images/vitgaze.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box'>
+    <div class='paper-box-image'>
+      <div>
+        <div class="badge">Visual Intelligence</div>
+        <img src='images/vitgaze.jpg' alt="sym" width="100%">
+      </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+      [Vitgaze: gaze following with interaction features in vision transformers](https://link.springer.com/article/10.1007/s44267-024-00064-9)
 
-[Vitgaze: gaze following with interaction features in vision transformers](https://link.springer.com/article/10.1007/s44267-024-00064-9)
+      **Yuehao Song**, Xinggang Wang, Jingfeng Yao, Wenyu Liu, Jinglin Zhang, Xiangmin Xu
 
-**Yuehao Song**, Xinggang Wang, Jingfeng Yao, Wenyu Liu, Jinglin Zhang, Xiangmin Xu
+      [**PDF**](https://link.springer.com/content/pdf/10.1007/s44267-024-00064-9.pdf) \| [**Project**](https://github.com/hustvl/ViTGaze) \| [![](https://img.shields.io/github/stars/hustvl/ViTGaze?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze)
+    </div>
+  </div>
 
-[**PDF**](https://link.springer.com/content/pdf/10.1007/s44267-024-00064-9.pdf) \| [**Project**](https://github.com/hustvl/ViTGaze) \| [![](https://img.shields.io/github/stars/hustvl/ViTGaze
-?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze)
-</div>
-</div>
+
 </details>
 
 <details open>
