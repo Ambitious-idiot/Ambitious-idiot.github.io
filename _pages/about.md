@@ -30,26 +30,15 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
 
 # 📝 Publications 
 
-<details open>
-  <summary style="cursor: pointer; display: list-item; font-size: 1.25em; font-weight: bold; margin: 0.6em 0; color: #333;">
-    ✨ Highlights
-  </summary>
+<details open><summary style="cursor: pointer; display: list-item; font-size: 1.25em; font-weight: bold; margin: 0.6em 0; color: #333;">✨ Highlights</summary>
 
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <div>
-        <div class="badge">Visual Intelligence</div>
-        <img src='images/vitgaze.jpg' alt="sym" width="100%">
-      </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-      [Vitgaze: gaze following with interaction features in vision transformers](https://link.springer.com/article/10.1007/s44267-024-00064-9)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Intelligence</div><img src='images/vitgaze.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+  [Vitgaze: gaze following with interaction features in vision transformers](https://link.springer.com/article/10.1007/s44267-024-00064-9)
 
-      **Yuehao Song**, Xinggang Wang, Jingfeng Yao, Wenyu Liu, Jinglin Zhang, Xiangmin Xu
+  **Yuehao Song**, Xinggang Wang, Jingfeng Yao, Wenyu Liu, Jinglin Zhang, Xiangmin Xu
 
-      [**PDF**](https://link.springer.com/content/pdf/10.1007/s44267-024-00064-9.pdf) \| [**Project**](https://github.com/hustvl/ViTGaze) \| [![](https://img.shields.io/github/stars/hustvl/ViTGaze?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze)
-    </div>
-  </div>
+  [**PDF**](https://link.springer.com/content/pdf/10.1007/s44267-024-00064-9.pdf) \| [**Project**](https://github.com/hustvl/ViTGaze) \| [![](https://img.shields.io/github/stars/hustvl/ViTGaze?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze)
+</div></div>
 
 
 </details>
