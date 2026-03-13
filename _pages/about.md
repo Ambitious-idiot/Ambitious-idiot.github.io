@@ -32,14 +32,6 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
 
 <details open><summary style="cursor: pointer; display: list-item; font-size: 1.25em; font-weight: bold; margin: 0.6em 0; color: #333;">✨ Highlights</summary>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Intelligence</div><img src='images/vitgaze.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
-  [Vitgaze: gaze following with interaction features in vision transformers](https://link.springer.com/article/10.1007/s44267-024-00064-9)
-
-  **Yuehao Song**, Xinggang Wang, Jingfeng Yao, Wenyu Liu, Jinglin Zhang, Xiangmin Xu
-
-  [**PDF**](https://link.springer.com/content/pdf/10.1007/s44267-024-00064-9.pdf) \| [**Project**](https://github.com/hustvl/ViTGaze) \| [![](https://img.shields.io/github/stars/hustvl/ViTGaze?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze)
-</div></div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv2603.11219</div><img src='images/vitgaze.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
   [Senna-2: Aligning VLM and End-to-End Driving Policy for Consistent Decision Making and Planning](https://arxiv.org/abs/2603.11219)
 
@@ -48,6 +40,13 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
   [**PDF**](https://arxiv.org/pdf/2603.11219) \| [**Project**](https://ambitious-idiot.github.io) \| [![](https://img.shields.io/github/stars/hustvl/Senna?style=social&label=Code Stars)](https://github.com/hustvl/Senna)
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Intelligence</div><img src='images/vitgaze.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+  [Vitgaze: gaze following with interaction features in vision transformers](https://link.springer.com/article/10.1007/s44267-024-00064-9)
+
+  **Yuehao Song**, Xinggang Wang, Jingfeng Yao, Wenyu Liu, Jinglin Zhang, Xiangmin Xu
+
+  [**PDF**](https://link.springer.com/content/pdf/10.1007/s44267-024-00064-9.pdf) \| [**Project**](https://github.com/hustvl/ViTGaze) \| [![](https://img.shields.io/github/stars/hustvl/ViTGaze?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze)
+</div></div>
 
 </details>
 
@@ -55,6 +54,16 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
   <summary style="cursor: pointer; display: list-item; font-size: 1.25em; font-weight: bold; margin: 0.6em 0; color: #333;">
     📄 All Publications
   </summary>
+
+<div class='paper-box-light'>
+<div class='paper-box-text' markdown="1">
+[Senna-2: Aligning VLM and End-to-End Driving Policy for Consistent Decision Making and Planning](https://arxiv.org/abs/2603.11219)
+
+ **Yuehao Song**, Shaoyu Chen, Hao Gao, Yifan Zhu, Weixiang Yue, Jialv Zou, Bo Jiang, Zihao Lu, Yu Wang, Qian Zhang, Xinggang Wang
+
+[**PDF**](https://arxiv.org/pdf/2603.11219) \| [**Project**](https://ambitious-idiot.github.io) \| [![](https://img.shields.io/github/stars/hustvl/Senna?style=social&label=Code Stars)](https://github.com/hustvl/Senna)
+</div>
+</div>
 
 <div class='paper-box-light'>
 <div class='paper-box-text' markdown="1">
