@@ -42,7 +42,7 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
 
 {% assign pubs = site.data.publications | sort: "date" | reverse %}
 
-<details open><summary style="cursor: pointer; display: list-item; font-size: 1.25em; font-weight: bold; margin: 0.6em 0; color: #333;">✨ Highlights</summary>
+<details open><summary class="pub-section-summary" style="cursor: pointer; display: list-item; font-size: 1.25em; font-weight: bold; margin: 0.6em 0; color: #333;">✨ Highlights</summary>
 {% for p in pubs %}
 {% if p.highlight %}
 <div class='paper-box'><div class='paper-box-image'><div>{% if p.badge %}<div class="badge">{{ p.badge }}</div>{% endif %}{% if p.image %}<img src='{{ p.image }}' alt="paper" width="100%">{% endif %}</div></div><div class='paper-box-text' markdown="1">
@@ -58,7 +58,7 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
 </details>
 
 <details close>
-  <summary style="cursor: pointer; display: list-item; font-size: 1.25em; font-weight: bold; margin: 0.6em 0; color: #333;">
+  <summary class="pub-section-summary" style="cursor: pointer; display: list-item; font-size: 1.25em; font-weight: bold; margin: 0.6em 0; color: #333;">
     📄 All Publications
   </summary>
 {% for p in pubs %}

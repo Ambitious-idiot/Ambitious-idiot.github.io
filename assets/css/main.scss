@@ -128,3 +128,12 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.pub-section-summary {
+    transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.pub-section-summary:hover {
+    color: #224b8d !important;
+    transform: translateX(3px);
+}
