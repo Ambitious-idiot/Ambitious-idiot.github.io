@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -28,25 +28,22 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
 
 - *2025.12*: &nbsp;🎉🎉 Release [Senna-2 project](https://ambitious-idiot.github.io/senna2-project), a dual-system driving VLA that explicitly aligns the VLM and the E2E model for consistent decision-making and planning.
 
-# 📝 Publications 
+# 📝 Publications
+
+{% assign pubs = site.data.publications | sort: "date" | reverse %}
 
 <details open><summary style="cursor: pointer; display: list-item; font-size: 1.25em; font-weight: bold; margin: 0.6em 0; color: #333;">✨ Highlights</summary>
+{% for p in pubs %}
+{% if p.highlight %}
+<div class='paper-box'><div class='paper-box-image'><div>{% if p.badge %}<div class="badge">{{ p.badge }}</div>{% endif %}{% if p.image %}<img src='{{ p.image }}' alt="paper" width="100%">{% endif %}</div></div><div class='paper-box-text' markdown="1">
+  [{{ p.title }}]({{ p.paper_url }})
+****
+  {{ p.authors | join: ", " }}
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv2603.11219</div><img src='images/vitgaze.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
-  [Senna-2: Aligning VLM and End-to-End Driving Policy for Consistent Decision Making and Planning](https://arxiv.org/abs/2603.11219)
-
-  **Yuehao Song**, Shaoyu Chen, Hao Gao, Yifan Zhu, Weixiang Yue, Jialv Zou, Bo Jiang, Zihao Lu, Yu Wang, Qian Zhang, Xinggang Wang
-
-  [**PDF**](https://arxiv.org/pdf/2603.11219) \| [**Project**](https://ambitious-idiot.github.io) \| [![](https://img.shields.io/github/stars/hustvl/Senna?style=social&label=Code Stars)](https://github.com/hustvl/Senna)
+  [**PDF**]({{ p.pdf_url }}){% if p.project_url %} \| [**Project**]({{ p.project_url }}){% endif %}{% if p.stars_badge and p.code_url %} \| [![]({{ p.stars_badge }})]({{ p.code_url }}){% endif %}
 </div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Intelligence</div><img src='images/vitgaze.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
-  [Vitgaze: gaze following with interaction features in vision transformers](https://link.springer.com/article/10.1007/s44267-024-00064-9)
-
-  **Yuehao Song**, Xinggang Wang, Jingfeng Yao, Wenyu Liu, Jinglin Zhang, Xiangmin Xu
-
-  [**PDF**](https://link.springer.com/content/pdf/10.1007/s44267-024-00064-9.pdf) \| [**Project**](https://github.com/hustvl/ViTGaze) \| [![](https://img.shields.io/github/stars/hustvl/ViTGaze?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze)
-</div></div>
+{% endif %}
+{% endfor %}
 
 </details>
 
@@ -54,73 +51,17 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
   <summary style="cursor: pointer; display: list-item; font-size: 1.25em; font-weight: bold; margin: 0.6em 0; color: #333;">
     📄 All Publications
   </summary>
-
+{% for p in pubs %}
 <div class='paper-box-light'>
 <div class='paper-box-text' markdown="1">
-[Senna-2: Aligning VLM and End-to-End Driving Policy for Consistent Decision Making and Planning](https://arxiv.org/abs/2603.11219)
+[{{ p.title }}]({{ p.paper_url }})
 
- **Yuehao Song**, Shaoyu Chen, Hao Gao, Yifan Zhu, Weixiang Yue, Jialv Zou, Bo Jiang, Zihao Lu, Yu Wang, Qian Zhang, Xinggang Wang
+{{ p.authors | join: ", " }}
 
-[**PDF**](https://arxiv.org/pdf/2603.11219) \| [**Project**](https://ambitious-idiot.github.io) \| [![](https://img.shields.io/github/stars/hustvl/Senna?style=social&label=Code Stars)](https://github.com/hustvl/Senna)
+{% if p.venue and p.venue != "" %}**{{ p.venue }}** \| {% endif %}[**PDF**]({{ p.pdf_url }}){% if p.project_url %} \| [**Project**]({{ p.project_url }}){% endif %}{% if p.stars_badge and p.code_url %} \| [![]({{ p.stars_badge }})]({{ p.code_url }}){% endif %}
 </div>
 </div>
-
-<div class='paper-box-light'>
-<div class='paper-box-text' markdown="1">
-[DeltaMIL: Gated Memory Integration for Efficient and Discriminative Whole Slide Image Analysis](https://arxiv.org/abs/2512.19331)
-
-Yueting Zhu, **Yuehao Song**, Shuai Zhang, Wenyu Liu, Xinggang Wang
-
-[**PDF**](https://arxiv.org/pdf/2512.19331)
-</div>
-</div>
-
-<div class='paper-box-light'>
-<div class='paper-box-text' markdown="1">
-[DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving](https://arxiv.org/abs/2512.07745)
-
-Jialv Zou, Shaoyu Chen, Bencheng Liao, Zhiyu Zheng, **Yuehao Song**, Lefei Zhang, Qian Zhang, Wenyu Liu, Xinggang Wang
-
-[**PDF**](https://arxiv.org/pdf/2512.07745) \| [**Project**](https://github.com/hustvl/DiffusionDriveV2) \| [![](https://img.shields.io/github/stars/hustvl/DiffusionDriveV2
-?style=social&label=Code Stars)](https://github.com/hustvl/DiffusionDriveV2)
-</div>
-</div>
-
-<div class='paper-box-light'>
-<div class='paper-box-text' markdown="1">
-
-[Dream4D: Lifting Camera-Controlled I2V towards Spatiotemporally Consistent 4D Generation](https://arxiv.org/abs/2508.07769)
-
-Xiaoyan Liu, Kangrui Li, **Yuehao Song**, Jiaxin Liu
-
-[**PDF**](https://arxiv.org/pdf/2508.07769) \| [**Project**](https://wanderer7-sk.github.io/Dream4D.github.io) \| [![](https://img.shields.io/github/stars/Wanderer7-sk/Dream4D
-?style=social&label=Code Stars)](https://github.com/Wanderer7-sk/Dream4D)
-</div>
-</div>
-
-<div class='paper-box-light'>
-<div class='paper-box-text' markdown="1">
-  
-[Eva-x: A foundation model for general chest x-ray analysis with self-supervised learning](https://www.nature.com/articles/s41746-025-02032-z)
-
-Jingfeng Yao, Xinggang Wang, **Yuehao Song**, Huangxuan Zhao, Jun Ma, Yajie Chen, Wenyu Liu, Bo Wang
-
-**npj Digital Medicine** \| [**PDF**](https://www.nature.com/articles/s41746-025-02032-z.pdf) \| [**Project**](https://github.com/hustvl/EVA-X) \| [![](https://img.shields.io/github/stars/hustvl/EVA-X
-?style=social&label=Code Stars)](https://github.com/hustvl/EVA-X)
-</div>
-</div>
-
-<div class='paper-box-light'>
-<div class='paper-box-text' markdown="1">
-
-[Vitgaze: gaze following with interaction features in vision transformers](https://link.springer.com/article/10.1007/s44267-024-00064-9)
-
-**Yuehao Song**, Xinggang Wang, Jingfeng Yao, Wenyu Liu, Jinglin Zhang, Xiangmin Xu
-
-**Visual Intelligence** \| [**PDF**](https://link.springer.com/content/pdf/10.1007/s44267-024-00064-9.pdf) \| [**Project**](https://github.com/hustvl/ViTGaze) \| [![](https://img.shields.io/github/stars/hustvl/ViTGaze
-?style=social&label=Code Stars)](https://github.com/hustvl/ViTGaze)
-</div>
-</div>
+{% endfor %}
 </details>
 
 # 📖 Educations

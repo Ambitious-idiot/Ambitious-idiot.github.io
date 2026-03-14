@@ -1,0 +1,115 @@
+- id: senna-2
+  title: "Senna-2: Aligning VLM and End-to-End Driving Policy for Consistent Decision Making and Planning"
+  paper_url: "https://arxiv.org/abs/2603.11219"
+  pdf_url: "https://arxiv.org/pdf/2603.11219"
+  project_url: "https://ambitious-idiot.github.io"
+  code_url: "https://github.com/hustvl/Senna"
+  stars_badge: "https://img.shields.io/github/stars/hustvl/Senna?style=social&label=Code Stars"
+  authors:
+    - "**Yuehao Song**"
+    - "Shaoyu Chen"
+    - "Hao Gao"
+    - "Yifan Zhu"
+    - "Weixiang Yue"
+    - "Jialv Zou"
+    - "Bo Jiang"
+    - "Zihao Lu"
+    - "Yu Wang"
+    - "Qian Zhang"
+    - "Xinggang Wang"
+  badge: "arXiv2603.11219"
+  image: "images/vitgaze.jpg"
+  venue: ""
+  date: "2026-03"
+  highlight: true
+
+- id: deltamil
+  title: "DeltaMIL: Gated Memory Integration for Efficient and Discriminative Whole Slide Image Analysis"
+  paper_url: "https://arxiv.org/abs/2512.19331"
+  pdf_url: "https://arxiv.org/pdf/2512.19331"
+  authors:
+    - "Yueting Zhu"
+    - "**Yuehao Song**"
+    - "Shuai Zhang"
+    - "Wenyu Liu"
+    - "Xinggang Wang"
+  venue: ""
+  date: "2025-12"
+  highlight: false
+
+- id: diffusiondrivev2
+  title: "DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving"
+  paper_url: "https://arxiv.org/abs/2512.07745"
+  pdf_url: "https://arxiv.org/pdf/2512.07745"
+  project_url: "https://github.com/hustvl/DiffusionDriveV2"
+  code_url: "https://github.com/hustvl/DiffusionDriveV2"
+  stars_badge: "https://img.shields.io/github/stars/hustvl/DiffusionDriveV2?style=social&label=Code Stars"
+  authors:
+    - "Jialv Zou"
+    - "Shaoyu Chen"
+    - "Bencheng Liao"
+    - "Zhiyu Zheng"
+    - "**Yuehao Song**"
+    - "Lefei Zhang"
+    - "Qian Zhang"
+    - "Wenyu Liu"
+    - "Xinggang Wang"
+  venue: ""
+  date: "2025-12"
+  highlight: false
+
+- id: dream4d
+  title: "Dream4D: Lifting Camera-Controlled I2V towards Spatiotemporally Consistent 4D Generation"
+  paper_url: "https://arxiv.org/abs/2508.07769"
+  pdf_url: "https://arxiv.org/pdf/2508.07769"
+  project_url: "https://wanderer7-sk.github.io/Dream4D.github.io"
+  code_url: "https://github.com/Wanderer7-sk/Dream4D"
+  stars_badge: "https://img.shields.io/github/stars/Wanderer7-sk/Dream4D?style=social&label=Code Stars"
+  authors:
+    - "Xiaoyan Liu"
+    - "Kangrui Li"
+    - "**Yuehao Song**"
+    - "Jiaxin Liu"
+  venue: ""
+  date: "2025-08"
+  highlight: false
+
+- id: eva-x
+  title: "Eva-x: A foundation model for general chest x-ray analysis with self-supervised learning"
+  paper_url: "https://www.nature.com/articles/s41746-025-02032-z"
+  pdf_url: "https://www.nature.com/articles/s41746-025-02032-z.pdf"
+  project_url: "https://github.com/hustvl/EVA-X"
+  code_url: "https://github.com/hustvl/EVA-X"
+  stars_badge: "https://img.shields.io/github/stars/hustvl/EVA-X?style=social&label=Code Stars"
+  authors:
+    - "Jingfeng Yao"
+    - "Xinggang Wang"
+    - "**Yuehao Song**"
+    - "Huangxuan Zhao"
+    - "Jun Ma"
+    - "Yajie Chen"
+    - "Wenyu Liu"
+    - "Bo Wang"
+  venue: "npj Digital Medicine"
+  date: "2025-01"
+  highlight: false
+
+- id: vitgaze
+  title: "Vitgaze: gaze following with interaction features in vision transformers"
+  paper_url: "https://link.springer.com/article/10.1007/s44267-024-00064-9"
+  pdf_url: "https://link.springer.com/content/pdf/10.1007/s44267-024-00064-9.pdf"
+  project_url: "https://github.com/hustvl/ViTGaze"
+  code_url: "https://github.com/hustvl/ViTGaze"
+  stars_badge: "https://img.shields.io/github/stars/hustvl/ViTGaze?style=social&label=Code Stars"
+  authors:
+    - "**Yuehao Song**"
+    - "Xinggang Wang"
+    - "Jingfeng Yao"
+    - "Wenyu Liu"
+    - "Jinglin Zhang"
+    - "Xiangmin Xu"
+  badge: "Visual Intelligence"
+  image: "images/vitgaze.jpg"
+  venue: "Visual Intelligence"
+  date: "2024-01"
+  highlight: true
