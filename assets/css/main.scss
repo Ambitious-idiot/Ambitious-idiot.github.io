@@ -48,6 +48,13 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+    border-radius: 6px;
+
+    &:hover {
+        background-color: #f7f9fc;
+        transform: translateX(4px);
+    }
 
     .paper-box-image{
         justify-content: center;
@@ -60,12 +67,12 @@
             object-fit: cover;
         }
     }
-    
+
     .paper-box-text{
         max-width: 100%;
         order: 1;
     }
-    
+
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
@@ -73,7 +80,7 @@
             max-width: 40%;
             order: 1;
         }
-        
+
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
@@ -86,6 +93,13 @@
 .paper-box-light {
     border-bottom: 1px #efefef solid;
     padding: 1em 0 1em 0;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+    border-radius: 6px;
+
+    &:hover {
+        background-color: #f7f9fc;
+        transform: translateX(4px);
+    }
 
     .paper-box-text{
         max-width: 100%;
@@ -93,12 +107,12 @@
 }
 
 $scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
+h1:before, .anchor:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: $scroll_offset;
     margin-top: -$scroll_offset;
 }
 
