@@ -18,7 +18,7 @@
     - "Qian Zhang"
     - "Xinggang Wang"
   badge: "arXiv2603.11219"
-  image: "images/vitgaze.jpg"
+  image: "images/papers/senna2.jpg"
   venue: ""
   date: "2026-03"
   highlight: true
@@ -109,7 +109,7 @@
     - "Jinglin Zhang"
     - "Xiangmin Xu"
   badge: "Visual Intelligence"
-  image: "images/vitgaze.jpg"
+  image: "images/papers/vitgaze.jpg"
   venue: "Visual Intelligence"
   date: "2024-01"
   highlight: true
