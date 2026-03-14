@@ -1,15 +1,11 @@
 - date: "2026-03"
-  display: "2026.3"
   content: "🎉🎉 Release [Senna-2 paper](https://arxiv.org/abs/2603.11219) on arXiv."
 
 - date: "2025-12"
-  display: "2025.12"
   content: "🎉🎉 Release [Senna-2 project](https://ambitious-idiot.github.io/senna2-project), a dual-system driving VLA that explicitly aligns the VLM and the E2E model for consistent decision-making and planning."
 
 - date: "2024-11"
-  display: "2024.11"
   content: "🎉🎉 [ViTGaze](https://link.springer.com/article/10.1007/s44267-024-00064-9) is published in **Visual Intelligence**."
 
-- date: "2024-3"
-  display: "2024.3"
+- date: "2024-03"
   content: "🎉🎉 Release [ViTGaze](https://arxiv.org/abs/2403.12778) on arXiv."

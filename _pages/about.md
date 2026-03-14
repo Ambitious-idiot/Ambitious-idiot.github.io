@@ -28,9 +28,9 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
 <ul>
 {% for n in news %}
   {% if forloop.index <= 5 %}
-  <li><em>{{ n.display }}</em>: &nbsp;{{ n.content | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+  <li><em>{{ n.date | replace: "-0", "." | replace: "-", "." }}</em>: &nbsp;{{ n.content | markdownify | remove: '<p>' | remove: '</p>' }}</li>
   {% else %}
-  <li class='news-extra' style='display:none'><em>{{ n.display }}</em>: &nbsp;{{ n.content | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+  <li class='news-extra' style='display:none'><em>{{ n.date | replace: "-0", "." | replace: "-", "." }}</em>: &nbsp;{{ n.content | markdownify | remove: '<p>' | remove: '</p>' }}</li>
   {% endif %}
 {% endfor %}
 {% if news.size > 5 %}
