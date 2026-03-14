@@ -48,12 +48,13 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
-    transition: background-color 0.2s ease, transform 0.2s ease;
+    transition: background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
     border-radius: 6px;
 
     &:hover {
-        background-color: #f7f9fc;
-        transform: translateX(4px);
+        background-color: #eef4fb;
+        transform: translateX(6px);
+        box-shadow: -4px 0 0 0 #52adc8;
     }
 
     .paper-box-image{
@@ -93,12 +94,13 @@
 .paper-box-light {
     border-bottom: 1px #efefef solid;
     padding: 1em 0 1em 0;
-    transition: background-color 0.2s ease, transform 0.2s ease;
+    transition: background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
     border-radius: 6px;
 
     &:hover {
-        background-color: #f7f9fc;
-        transform: translateX(4px);
+        background-color: #eef4fb;
+        transform: translateX(6px);
+        box-shadow: -4px 0 0 0 #52adc8;
     }
 
     .paper-box-text{
