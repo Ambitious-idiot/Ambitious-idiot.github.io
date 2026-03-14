@@ -37,7 +37,7 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
 {% if p.highlight %}
 <div class='paper-box'><div class='paper-box-image'><div>{% if p.badge %}<div class="badge">{{ p.badge }}</div>{% endif %}{% if p.image %}<img src='{{ p.image }}' alt="paper" width="100%">{% endif %}</div></div><div class='paper-box-text' markdown="1">
   [{{ p.title }}]({{ p.paper_url }})
-****
+
   {{ p.authors | join: ", " }}
 
   [**PDF**]({{ p.pdf_url }}){% if p.project_url %} \| [**Project**]({{ p.project_url }}){% endif %}{% if p.stars_badge and p.code_url %} \| [![]({{ p.stars_badge }})]({{ p.code_url }}){% endif %}
