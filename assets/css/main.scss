@@ -52,9 +52,9 @@
     border-radius: 6px;
 
     &:hover {
-        background-color: #eef4fb;
-        transform: translateX(6px);
-        box-shadow: -4px 0 0 0 #52adc8;
+        background-color: #f7faff;
+        transform: translateY(-2px);
+        box-shadow: 0 8px 18px rgba(34, 75, 141, 0.10);
     }
 
     .paper-box-image{
@@ -98,9 +98,9 @@
     border-radius: 6px;
 
     &:hover {
-        background-color: #eef4fb;
-        transform: translateX(6px);
-        box-shadow: -4px 0 0 0 #52adc8;
+        background-color: #f7faff;
+        transform: translateY(-2px);
+        box-shadow: 0 6px 14px rgba(34, 75, 141, 0.08);
     }
 
     .paper-box-text{
