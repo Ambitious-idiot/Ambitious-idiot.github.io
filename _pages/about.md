@@ -35,7 +35,7 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
 {% endfor %}
 </ul>
 {% if news.size > 5 %}
-<a href="javascript:void(0)" id="news-more-btn" onclick="var els=document.querySelectorAll('.news-extra'),expanded=els[0].style.display!=='none';els.forEach(el=>el.style.display=expanded?'none':'list-item');this.textContent=expanded?'More \u00bb':'Less \u00ab';">More &raquo;</a>
+<button id="news-more-btn" onclick="var els=document.querySelectorAll('.news-extra'),expanded=els[0].style.display!=='none';els.forEach(el=>el.style.display=expanded?'none':'list-item');this.textContent=expanded?'More \u00bb':'Less \u00ab';" style="background:none;border:none;color:#52adc8;cursor:pointer;padding:0;font-size:1em;">More &raquo;</button>
 {% endif %}
 
 # 📝 Publications
