@@ -141,14 +141,14 @@ h1:before, .anchor:before {
 /* Global link styling */
 a {
     color: #1f4fa3;
-    text-decoration: none;
+    text-decoration: none !important;
     transition: color 0.2s ease;
 }
 
 a:hover,
 a:focus {
     color: #163b7a;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 a:focus-visible {

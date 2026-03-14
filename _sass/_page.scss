@@ -51,12 +51,12 @@
 .page__content {
   #about-me{
     margin-top: -10em;
-      &:before { 
-        content: ''; 
-        display: block; 
-        position: relative; 
-        width: 0; 
-        height: 10em; 
+      &:before {
+        content: '';
+        display: block;
+        position: relative;
+        width: 0;
+        height: 10em;
         margin-top: -10em;
     }
   }
@@ -84,10 +84,10 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
