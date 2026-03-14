@@ -24,9 +24,10 @@ Currently, I am a research intern at Horizon Robotics, working in the team led b
 My current research focuses on Vision-Language-Action models (VLA) for autonomous driving.
 
 # 🔥 News
-- *2026.3*:  &nbsp;🎉🎉 Release [Senna-2 paper](https://arxiv.org/abs/2603.11219) on arXiv.
-
-- *2025.12*: &nbsp;🎉🎉 Release [Senna-2 project](https://ambitious-idiot.github.io/senna2-project), a dual-system driving VLA that explicitly aligns the VLM and the E2E model for consistent decision-making and planning.
+{% assign news = site.data.news | sort: "date" | reverse %}
+{% for n in news %}
+- *{{ n.display }}*: &nbsp;{{ n.content }}
+{% endfor %}
 
 # 📝 Publications
 

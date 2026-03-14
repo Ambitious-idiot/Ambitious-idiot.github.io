@@ -1,0 +1,7 @@
+- date: "2026-03"
+  display: "2026.3"
+  content: "🎉🎉 Release [Senna-2 paper](https://arxiv.org/abs/2603.11219) on arXiv."
+
+- date: "2025-12"
+  display: "2025.12"
+  content: "🎉🎉 Release [Senna-2 project](https://ambitious-idiot.github.io/senna2-project), a dual-system driving VLA that explicitly aligns the VLM and the E2E model for consistent decision-making and planning."
