@@ -25,9 +25,18 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
 
 # 🔥 News
 {% assign news = site.data.news | sort: "date" | reverse %}
+<ul>
 {% for n in news %}
-- *{{ n.display }}*: &nbsp;{{ n.content }}
+  {% if forloop.index <= 5 %}
+  <li><em>{{ n.display }}</em>: &nbsp;{{ n.content }}</li>
+  {% else %}
+  <li class='news-extra' style='display:none'><em>{{ n.display }}</em>: &nbsp;{{ n.content }}</li>
+  {% endif %}
 {% endfor %}
+</ul>
+{% if news.size > 5 %}
+<a href="javascript:void(0)" id="news-more-btn" onclick="var els=document.querySelectorAll('.news-extra'),expanded=els[0].style.display!=='none';els.forEach(el=>el.style.display=expanded?'none':'list-item');this.textContent=expanded?'More \u00bb':'Less \u00ab';">More &raquo;</a>
+{% endif %}
 
 # 📝 Publications
 
