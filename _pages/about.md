@@ -85,6 +85,4 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
 <a href="https://www.easycounter.com/">
 <img src="https://www.easycounter.com/counter.php?yuehao_song"
 border="0" alt="Web Counter"></a>
-<br>
-
-visitors since Oct. 2025
+visitors since Jun. 2026
