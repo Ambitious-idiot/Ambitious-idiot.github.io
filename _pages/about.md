@@ -76,7 +76,7 @@ My current research focuses on Vision-Language-Action models (VLA) for autonomou
 
 # 📖 Educations
 
-- *2024.09 - Now*, Master, School of EIC, Huazhong University of Science and Technology, Wuhan, China, supervised by [Prof. Xinggang Wang](https://xwcv.github.io/).
+- *2024.09 - Now*, PhD, School of EIC, Huazhong University of Science and Technology, Wuhan, China, supervised by [Prof. Xinggang Wang](https://xwcv.github.io/).
 - *2020.09 - 2024.06*, Bachelor, School of EIC, Huazhong University of Science and Technology, Wuhan, China.
 
 # 💻 Internships
