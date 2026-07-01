@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a master student at Huazhong University of Science and Technology, where I am a member of the <a href="https://hustvl.github.io/">HUST Vision Lab</a> under the supervision of <a href="https://xwcv.github.io/">Prof. Xinggang Wang</a>.
+I'm a PhD student at Huazhong University of Science and Technology, where I am a member of the <a href="https://hustvl.github.io/">HUST Vision Lab</a> under the supervision of <a href="https://xwcv.github.io/">Prof. Xinggang Wang</a>.
 My research interests include autonomous driving, MLLMs, and generative models.
 
 Currently, I am a research intern at Horizon Robotics, working in the team led by [Shaoyu Chen](https://scholar.google.com/citations?user=PIeNN2gAAAAJ) and [Qian Zhang](https://scholar.google.com/citations?user=pCY-bikAAAAJ).
