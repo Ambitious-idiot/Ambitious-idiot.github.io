@@ -3,8 +3,8 @@
   paper_url: "https://arxiv.org/abs/2608.10439"
   pdf_url: "https://arxiv.org/pdf/2608.10439"
   authors:
-    - "Yueting Zhu$^*$"
-    - "**Yuehao Song$^*$**"
+    - "Yueting Zhu$^†$"
+    - "**Yuehao Song$^†$**"
     - "Kaicheng Zhang"
     - "Bao Tang"
     - "Shaoyu Chen"
@@ -103,9 +103,9 @@
   code_url: "https://github.com/Wanderer7-sk/Dream4D"
   stars_badge: "https://img.shields.io/github/stars/Wanderer7-sk/Dream4D?style=social&label=Code Stars"
   authors:
-    - "Xiaoyan Liu$^*$"
-    - "Kangrui Li$^*$"
-    - "Jiaxin Liu$^*$"
+    - "Xiaoyan Liu$^†$"
+    - "Kangrui Li$^†$"
+    - "Jiaxin Liu$^†$"
     - "**Yuehao Song**"
     - "Yujie Xing"
   venue: "PG'26"
