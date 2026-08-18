@@ -103,10 +103,11 @@
   code_url: "https://github.com/Wanderer7-sk/Dream4D"
   stars_badge: "https://img.shields.io/github/stars/Wanderer7-sk/Dream4D?style=social&label=Code Stars"
   authors:
-    - "Xiaoyan Liu"
-    - "Kangrui Li"
+    - "Xiaoyan Liu$^*$"
+    - "Kangrui Li$^*$"
+    - "Jiaxin Liu$^*$"
     - "**Yuehao Song**"
-    - "Jiaxin Liu"
+    - "Yujie Xing"
   venue: "PG'26"
   date: "2025-08"
   highlight: false
